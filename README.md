@@ -1,4 +1,4 @@
-# link1
+[# link1
 100
 
 https://discussions.apple.com/welcome
@@ -24,3 +24,26 @@ https://en.gravatar.com
 https://www.weebly.com
 medium.com
 ![image](https://github.com/user-attachments/assets/eb1dde70-11c5-45d6-986c-3a19dc73d876)
+](https://discussions.apple.com/welcome
+https://www.blogger.com
+https://www.linkedin.com
+https://wordpress.org
+addons.mozilla.org
+https://addons.mozilla.org/en-US/firefox
+edex.adobe.com/member/YOUR-PROFILE
+https://sites.google.com/
+https://forums.adobe.com
+https://vimeo.com
+https://github.com
+amazon.com/ap/signin
+myspace.com/YOUR-PROFILE
+medium.com/@YOUR-PROFILE
+https://www.slideshare.net
+myspace.com
+https://www.dailymotion.com
+https://medium.com
+https://myspace.com
+https://en.gravatar.com
+https://www.weebly.com
+medium.com
+)![Uploading image.png…]()
